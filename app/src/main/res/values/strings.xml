@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NoteTakingApp</string>
+    <string name="heading">Hello</string>
+    <string name="noNameError">Please provide a name for your note</string>
+    <string name="nameExistsError">A note of the given name already exists!</string>
+</resources>
